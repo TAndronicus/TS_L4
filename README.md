@@ -6,5 +6,6 @@
 ### Jak uruchomić wersję edytowalną:
 1. Pobrać repozytorium, np. w prawym górnym rogu: clone or download > download ZIP
 2. Rozpakować zip.
-3. Pobrać i zainstalować [jupyter lub jupyter-lab](https://jupyter.org/install.html).
-4. Otworzyć plik ipynb w zainstalowanym programie.
+3. Pobrać i zainstalować pythona (np. [anaconda](https://www.anaconda.com))
+4. Pobrać i zainstalować [jupyter lub jupyter-lab](https://jupyter.org/install.html).
+5. Otworzyć plik ipynb w zainstalowanym programie.
